@@ -19,9 +19,13 @@ chmod 777 launch.sh
 bash launch.sh install && bash launch.sh
 
 ```
+* * *
+# آموزش توکن گذاشتن و ادمین کردن
+```
 توکن ربات و آیدی عددی خودتون رو داخل
 bot.lua
 بزارید
+```
 * * *
 #نکته 
 ```
