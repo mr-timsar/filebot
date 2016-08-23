@@ -44,6 +44,11 @@ if [ "$1" = "install" ]; then
   install_rocks
 else
   while true; do
+   echo -e "\033[38;5;208m"
+   echo -e "     Flie bot version 1                           "
+   echo -e "     Developer : @base4 & @luacractive            "
+   echo -e "                                              \033[0;00m"
+   echo -e "\e[36m"
     lua bot.lua
     sleep 5s
   done
