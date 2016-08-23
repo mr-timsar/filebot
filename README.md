@@ -21,9 +21,11 @@ bash launch.sh install && bash launch.sh
 ```
 * * *
 ```
+#نکته 
 برای اینکه ربات آف نشه از دستور
 nohup sudo bash ./launch.sh
 استفاده کنید
 ```
+# دقیق مثل بالا عمل کنید
 * * *
 
